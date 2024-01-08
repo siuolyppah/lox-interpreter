@@ -2,4 +2,6 @@
 
 jlox/out/
 jlox/.idea/
+jlox/.gradle/
+jlox/build/
 jlox/jlox.iml
